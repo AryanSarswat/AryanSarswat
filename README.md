@@ -18,7 +18,24 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<h2 align="center">
+  My Github Stats
+</h2>
+ 
+<br>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AryanSarswat&show_icons=true&theme=onedark&line_height=27&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSarswat&hide=jupyter%20notebook&theme=onedark&count_private=true">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSarswat&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0&count_private=true" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=AryanSarswat&theme=onedark&count_private=true">
+</p> 
 
 <!---
 AryanSarswat/AryanSarswat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
