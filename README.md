@@ -37,8 +37,3 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=AryanSarswat&theme=onedark&count_private=true">
 </p> 
-
-<!---
-AryanSarswat/AryanSarswat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
